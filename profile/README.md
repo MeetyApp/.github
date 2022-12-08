@@ -1,4 +1,4 @@
-## Meety 👋
+# Meety 👋
 
 <a href="https://meet-up.youtrack.cloud" target="_blank">YouTrack</a>
 
