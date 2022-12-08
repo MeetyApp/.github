@@ -1,6 +1,7 @@
-## Hi there 👋
+## Meety 👋
 
-[YouTrack](https://meet-up.youtrack.cloud)
+<a href="https://meet-up.youtrack.cloud" target="_blank">YouTrack</a>
+
 
 <!--
 **Here are some ideas to get you started:**
