@@ -1,14 +1,9 @@
-<p align="center">
 <h1 align="center">Meety 👋</h1>
-  <br>
-    <i style="font-size: 1.1rem">
+<i align="center" style="font-size: 1.1rem">
         MEET YOUR NEW BUDDY
-    </i>
-  <br>
-</p>
+</i>
 
 <hr>
-
 <div style="display: flex; justify-content: space-around">
 <div>
 - <a href="https://meety-app.de/"><h4>Meety-Web</h4></a>
