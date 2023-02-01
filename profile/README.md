@@ -1,7 +1,6 @@
-<h1 align="center">Meety 👋</h1>
-<i align="center" style="font-size: 1.1rem">
-        MEET YOUR NEW BUDDY
-</i>
+<div align="center">
+    <img src="LogoWhitemode.png" style="border-radius: 5%; width: 100%;"/>
+</div>
 
 <hr>
 <div style="display: flex; justify-content: space-around">
