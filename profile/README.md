@@ -1,15 +1,19 @@
-# Meety 👋
+<h1 align="center">Meety 👋</h1>
+<p align="center">
+  <br>
+    <i style="font-size: 1.1rem">
+        MEET YOUR NEW BUDDY
+    </i>
+  <br>
+</p>
 
-<a href="https://meety-app.de/" target="_blank">Meety Web App</a>
-<a href="https://meet-up.youtrack.cloud" target="_blank">YouTrack</a>
+<hr>
 
+<div style="display: flex; justify-content: space-around">
+<div>
+<h3 style="text-decoration: underline">Monitoring</h3>
 
-<!--
-**Here are some ideas to get you started:**
+- <a href="https://meety-app.de/"><h4>Meety-Web</h4></a>
+- <a href="https://meet-up.youtrack.cloud"><h4>YouTrack</h4></a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
