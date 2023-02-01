@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./LogoWhitemode.png" style="border-radius: 5%; width: 100%;"/>
+    <img src="./LogoWhitemode.png" style="border-radius: 5%; width: 50%;"/>
 </div>
 
 <hr>
