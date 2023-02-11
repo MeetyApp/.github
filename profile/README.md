@@ -3,8 +3,6 @@
 </div>
 
 <hr>
-[![Dart](https://github.com/MeetyApp/meety-frontend/actions/workflows/dart.yml/badge.svg)](https://github.com/MeetyApp/meety-frontend/actions/workflows/dart.yml)
-<hr>
 
 <div style="display: flex; justify-content: space-around">
 <div>
